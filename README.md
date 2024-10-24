@@ -39,26 +39,11 @@ In this project, I utilized the Blinkit dataset to create comprehensive visualiz
 
 ## Visualizations
 
-The visualizations created in this project provide a clear and detailed understanding of the various factors influencing Blinkit's sales. Please refer to the attached PDF file for the complete visualizations:
-
+The visualizations created in this project provide a clear and detailed understanding of the various factors influencing Blinkit's sales. 
 
 ## Tools and Technologies
 
 - **Power BI**: For data visualization and analysis.
 - **GitHub**: For version control and project management.
 
-## Contributing
-
-I welcome contributions to this project. If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out:
-
-- LinkedIn: https://www.linkedin.com/in/kuldeep19
-- Email: mailto:malviyakuldeep38@gmail.com
-
----
-
-Thank you for visiting my GitHub repository! If you found this project interesting, please consider giving it a star ⭐.
 
